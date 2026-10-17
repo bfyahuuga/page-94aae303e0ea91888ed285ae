@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c8422b6051.huayizi.cn/sitemap.xml

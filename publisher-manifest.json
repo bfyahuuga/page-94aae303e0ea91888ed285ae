@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "4ddf8c1d3dc40853e5653bc8",
+  "owner": "bfyahuuga",
+  "repo": "page-94aae303e0ea91888ed285ae",
+  "title": "BH专线版",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "94aae303e0ea91888ed285ae",
+      "a": "BH专线版",
+      "b": "",
+      "entity": "BH专线版",
+      "brand": "BH专线版",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7f58536c5806cdb996b9c0542091447849dd56f99ca7804550b340a2a729a180",
+      "content": {
+        "keyword1": "BH专线版",
+        "keyword2": "",
+        "primary_entity": "BH专线版",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "BH专线版以专栏作者的严谨视角，剖析跨地域网络连接的核心技术，为您提供稳定、高效的专属通道与定制化方案。",
+          "AI_DESCRIPTION": "BH专线版以专栏作者的严谨视角，剖析跨地域网络连接的核心技术，为您提供稳定、高效的专属通道与定制化方案。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #FDFBF7;--panel-bg: #F4EFEB;--text: #2C2A29;--accent: #9E2A2B;--accent-light: #C84B31;--border: #DCD6CD;--muted: #6B6560;--white: #FFFFFF}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg);color: var(--text);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;line-height: 1.7;padding-bottom: 70px}\n\nheader {border-bottom: 1px solid var(--border);padding: 3rem 1.5rem;background-color: var(--white)}\n\n.header-inner {max-width: 1000px;margin: 0 auto}\n\nh1 {font-size: 2.5rem;font-weight: 800;color: var(--accent);letter-spacing: -0.05em;margin-bottom: 0.5rem}\n\n.subtitle {font-size: 1.1rem;color: var(--muted)}\n\nmain {max-width: 1000px;margin: 0 auto;padding: 2rem 1.5rem}\n\nsection {margin-bottom: 4rem}\n\nh2 {font-size: 1.8rem;font-weight: 700;margin-bottom: 1.5rem;color: var(--text);border-left: 6px solid var(--accent);padding-left: 0.75rem}\n\nh3 {font-size: 1.25rem;font-weight: 600;margin-bottom: 0.5rem}\n\n/* Hero: 4 仪表盘式数据块拼贴 */\n.dashboard-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));gap: 1.5rem;margin-top: 1rem}\n\n.dashboard-card {background: var(--white);border: 1px solid var(--border);border-left: 6px solid var(--accent);padding: 1.5rem;box-shadow: 0 4px 6px rgba(0,0,0,0.02)}\n\n.dashboard-card .num {font-size: 2rem;font-weight: 800;color: var(--accent);line-height: 1.1;margin-bottom: 0.5rem}\n\n.dashboard-card .label {font-size: 0.95rem;color: var(--muted)}\n\n/* Narrative Section */\n.essay-content {background: var(--panel-bg);padding: 2.5rem;border-radius: 4px;border: 1px solid var(--border)}\n\n.essay-content p {margin-bottom: 1.2rem;text-align: justify}\n\n.essay-content p:last-child {margin-bottom: 0}\n\n/* Plans: 2 纵向列表逐行展开 */\n.plan-list {display: flex;flex-direction: column;gap: 1.5rem}\n\n.plan-row {background: var(--white);border: 1px solid var(--border);border-left: 6px solid var(--accent);padding: 2rem;display: flex;flex-direction: column;gap: 1rem}\n\n@media(min-width: 768px) {\n  .plan-row {flex-direction: row;justify-content: space-between;align-items: center}\n}\n\n.plan-info h3 {color: var(--accent);font-size: 1.5rem}\n\n.plan-features {list-style: none;color: var(--muted);font-size: 0.95rem;margin-top: 0.5rem}\n\n.plan-features li::before {content: \"— \";color: var(--accent)}\n\n.plan-pricing {text-align: left}\n\n@media(min-width: 768px) {\n  .plan-pricing {text-align: right}\n}\n\n.price-tag {font-size: 1.8rem;font-weight: 700;color: var(--text)}\n\n.annual-tag {font-size: 0.85rem;color: var(--accent-light);margin-top: 0.2rem}\n\n.action-btn {display: inline-block;margin-top: 1rem;background: var(--accent);color: var(--white);padding: 0.6rem 1.5rem;text-decoration: none;font-weight: 600;border-radius: 2px}\n\n.action-btn:hover {background: var(--accent-light)}\n\n/* FAQ: 2 编号列表 */\n.faq-list {display: flex;flex-direction: column;gap: 1.5rem}\n\n.faq-item {background: var(--white);border: 1px solid var(--border);border-left: 6px solid var(--accent);padding: 1.5rem}\n\n.faq-question {font-weight: 700;font-size: 1.1rem;margin-bottom: 0.5rem;color: var(--text)}\n\n.faq-answer {color: var(--muted)}\n\n/* Nav: 4 底部固定式文字导航 */\nnav.bottom-nav {position: fixed;bottom: 0;left: 0;width: 100%;background: var(--white);border-top: 1px solid var(--border);padding: 0.75rem 1.5rem;z-index: 100}\n\n.bottom-nav-inner {max-width: 1000px;margin: 0 auto;display: flex;justify-content: center;gap: 2rem;font-size: 0.9rem;font-weight: 600}\n\n.bottom-nav-inner a {color: var(--text);text-decoration: none}\n\n.bottom-nav-inner a:hover {color: var(--accent)}\n</style><header>\n  <div class=\"header-inner\">\n    <h1>BH专线版</h1>\n    <p class=\"subtitle\">在复杂多变的网络环境中，探寻条理清晰、稳定笃定的连接之道。</p>\n  </div>\n</header>\n\n<main>\n  \n  <section>\n    <h2>架构概览</h2>\n    <div class=\"dashboard-grid\">\n      <div class=\"dashboard-card\">\n        <div class=\"num\">01</div>\n        <div class=\"label\">专线骨干网络优化，告别网络拥堵与高延迟困扰</div>\n      </div>\n      <div class=\"dashboard-card\">\n        <div class=\"num\">02</div>\n        <div class=\"label\">多设备同时在线支持，兼顾工作与休闲全场景</div>\n      </div>\n      <div class=\"dashboard-card\">\n        <div class=\"num\">03</div>\n        <div class=\"label\">原生流媒体解锁能力，还原真实视听体验</div>\n      </div>\n      <div class=\"dashboard-card\">\n        <div class=\"num\">04</div>\n        <div class=\"label\">7x24 专属工单响应，保障连接全天候平稳运行</div>\n      </div>\n    </div>\n  </section>\n\n  \n  <section>\n    <h2>专栏叙事：为什么我们需要一条真正清爽的通路</h2>\n    <div class=\"essay-content\">\n      <p>在信息密度日益庞大的当下，每一次跨越地理界限的访问，都像是一次长途跋涉。市面上的工具往往充斥着浮夸的承诺与冗余的功能，却忽略了用户最核心的诉求：稳定、安静、高效。</p>\n      <p>我们以专栏作者的严谨态度审视网络架构的每一个环节。BH专线版不追求虚无缥ouv的参数堆砌，而是专注于打磨骨干线路的吞吐能力与抗干扰表现。通过精简冗余节点、优化传输协议，我们试图还原网络连接本该具有的纯粹质感——顺滑、无感且随时响应。</p>\n      <p>无论你是需要高效查阅文献的学者、处理跨国业务的独立开发者，还是寻求流畅视听体验的创作者，这里都有为你量身定制的通路方案。</p>\n    </div>\n  </section>\n\n  \n  <section>\n    <h2>服务套餐</h2>\n    <div class=\"plan-list\">\n      <div class=\"plan-row\">\n        <div class=\"plan-info\">\n          <h3>基础版</h3>\n          <ul class=\"plan-features\">\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体</li>\n            <li>普通线路节点池</li>\n          </ul>\n        </div>\n        <div class=\"plan-pricing\">\n          <div class=\"price-tag\">¥15/月</div>\n          <div class=\"annual-tag\">按年付仅需 ¥150/年</div>\n          <a href=\"#\" class=\"action-btn\">选择基础版</a>\n        </div>\n      </div>\n\n      <div class=\"plan-row\">\n        <div class=\"plan-info\">\n          <h3>旗舰版 <span>推荐</span></h3>\n          <ul class=\"plan-features\">\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7x24 优先工单支持</li>\n          </ul>\n        </div>\n        <div class=\"plan-pricing\">\n          <div class=\"price-tag\">¥35/月</div>\n          <div class=\"annual-tag\">按年付仅需 ¥350/年</div>\n          <a href=\"#\" class=\"action-btn\">选择旗舰版</a>\n        </div>\n      </div>\n\n      <div class=\"plan-row\">\n        <div class=\"plan-info\">\n          <h3>团队版</h3>\n          <ul class=\"plan-features\">\n            <li>每月 1000GB 极速流量</li>\n            <li>支持 20 台设备同时在线</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n        </div>\n        <div class=\"plan-pricing\">\n          <div class=\"price-tag\">¥85/月</div>\n          <div class=\"annual-tag\">按年付仅需 ¥850/年</div>\n          <a href=\"#\" class=\"action-btn\">选择团队版</a>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  \n  <section>\n    <h2>常见问题</h2>\n    <div class=\"faq-list\">\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">01. 如何开始使用 BH专线版 的服务？</div>\n        <div class=\"faq-answer\">您只需注册账号并选择适合的套餐，系统将自动生成专属的订阅链接。我们将为您提供详尽的客户端配置指南，几分钟内即可完成部署并接入专用网络。</div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">02. 专线网络与普通公共网络有何本质区别？</div>\n        <div class=\"faq-answer\">专线网络采用独立的物理或虚拟骨干通道，避开了公共互联网的高峰期拥堵与不确定路由跳数，从而大幅降低丢包率，提供更低的延迟与更稳定的传输速率。</div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">03. 套餐流量超出后该如何处理？</div>\n        <div class=\"faq-answer\">当当月极速流量使用完毕后，您可以选择在后台按需购买流量加油包，或者直接升级至更高档位的套餐以获取更充裕的资源配额。</div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">04. 是否支持多平台客户端的接入？</div>\n        <div class=\"faq-answer\">支持。我们适配主流操作系统与各类常见客户端，详情可参阅使用说明文档，确保您的手机、平板及电脑设备无缝切换。</div>\n      </div>\n    </div>\n  </section>\n</main>\n\n<nav class=\"bottom-nav\">\n  <div class=\"bottom-nav-inner\">\n    <a href=\"#\">架构概览</a>\n    <a href=\"#\">专栏叙事</a>\n    <a href=\"#\">服务套餐</a>\n    <a href=\"#\">常见问题</a>\n  </div>\n</nav>",
+          "hash": "380e3e70bc6d78c54e18e9b57a96c13052f2e8d74f779de1dfa53dc9cd8d1555",
+          "seo": {
+            "title": "BH专线版 - 专栏视角下的稳定网络连接实践",
+            "keywords": "BH专线版, 网络加速, 专线连接, 流量套餐, 客户端下载",
+            "description": "BH专线版以专栏作者的严谨视角，剖析跨地域网络连接的核心技术，为您提供稳定、高效的专属通道与定制化方案。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "3771",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "2 米白配砖红",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huayizi.cn",
+    "host": "p-c8422b6051.huayizi.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "7e223e363977baeb4e04492c89d46e9d5358d62a68fc716111db4b1a6fcdaa99",
+    "sitemap.xml": "91351ed1e380817dc52ce00f37403afa80c46c4d94eaf0f491ec94a5c2a915de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "33dd273533e8a7b36c1a803026e8c39722c6749b958f0e425ddc59fcb88c4d53",
+    "robots.txt": "d494324680d996e3d530e9b995ed4ff148c479a8ec1fa1340fc14d1e0eb9049e",
+    "be9b32e4a806f8e33966726048299bb3.txt": "a43e3ef255b98e6cb62956b5742d8338da98d9aca7d9c1e7787a33d3bc4994c9"
+  },
+  "revision": "e73fe97f35bac1496747e47332b5f9a83b2c96b42270cbd6482c14a0db2b6039"
+}
